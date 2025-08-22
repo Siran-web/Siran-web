@@ -45,50 +45,6 @@ I'm a Full stack engineer with a passion for Spring Boot — and I love diving i
   </a>
 </p>
 
-### Badges
-
-<b>Top Repositories</b>
-
-<div align="center" width="100%">
-
-  <!-- Library-System Repo -->
-  <a href="https://github.com/Siran-web/Oggy-and-the-Cockroaches-Game" align="left">
-    <img 
-      align="left" 
-      width="45%" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Siran-web&repo=Oggy-and-the-Cockroaches-Game&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" 
-      alt="Oggy-and-the-Cockroaches-Game"
-    />
-  </a>
-
-  <!-- Familia Repo -->
-  <a href="https://github.com/Siran-web/weather_app" align="right">
-    <img 
-      align="right" 
-      width="45%" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Siran-web&repo=weather_app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" 
-      alt="weather_app"
-    />
-  </a>
-
-</div>
-
-<!-- Spacing -->
-<br /><br /><br /><br />
-
-<br /><br /><br />
-<div align="center" width="100%">
-
-  <!-- Crypto Project (Siran) -->
-  <a href="https://github.com/Siran-web/crypto_project" align="left">
-    <img 
-      align="left" 
-      width="45%" 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Siran-web&repo=crypto_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" 
-      alt="Crypto Project (Siran)"
-    />
-  </a>
-
 
 </div>
 
