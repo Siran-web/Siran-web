@@ -21,10 +21,10 @@ I'm a Full stack engineer with a passion for Spring Boot — and I love diving i
 
 
 ### Socials
-
+<!--
 <p align="left">
 
-  <!-- GitHub -->
+  <!-- GitHub (Siran) -->
   <a href="https://www.github.com/Siran-web" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
@@ -34,7 +34,7 @@ I'm a Full stack engineer with a passion for Spring Boot — and I love diving i
     </picture>
   </a>
 
-  <!-- LinkedIn -->
+  <!-- LinkedIn (Siran) -->
   <a href="https://www.linkedin.com/in/siran-parwin-82a105297/" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
@@ -44,6 +44,8 @@ I'm a Full stack engineer with a passion for Spring Boot — and I love diving i
     </picture>
   </a>
 </p>
+-->
+
 
 
 </div>
